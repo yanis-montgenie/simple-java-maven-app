@@ -27,6 +27,6 @@ public class AppTest
     @Test
     public void testApp()
     {
-        assertTrue(true); // forcer l’échec
+        assertTrue(false); // forcer l’échec
     }
 }
